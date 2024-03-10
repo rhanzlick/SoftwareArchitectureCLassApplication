@@ -1,28 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\DotNetAutomationProgram\\DotNetAutomationProgram.csproj": {}
+    "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\DotNetAutomationProgram\\DotNetAutomationProgram.csproj": {}
   },
   "projects": {
-    "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\AppLibrary\\AppLibrary.vcxproj": {
+    "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\AppLibrary\\AppLibrary.vcxproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\AppLibrary\\AppLibrary.vcxproj",
+        "projectUniqueName": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\AppLibrary\\AppLibrary.vcxproj",
         "projectName": "AppFeatureOps",
-        "projectPath": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\AppLibrary\\AppLibrary.vcxproj",
+        "projectPath": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\AppLibrary\\AppLibrary.vcxproj",
         "frameworks": {
           "native": {
             "projectReferences": {
-              "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\AppsCore\\AppsCore.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\AppsCore\\AppsCore.vcxproj"
+              "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\AppsCore\\AppsCore.vcxproj": {
+                "projectPath": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\AppsCore\\AppsCore.vcxproj"
               },
-              "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\Core\\Core.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\Core\\Core.vcxproj"
+              "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\Core\\Core.vcxproj": {
+                "projectPath": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\Core\\Core.vcxproj"
               },
-              "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\DataReader\\DataReader.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\DataReader\\DataReader.vcxproj"
+              "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\DataReader\\DataReader.vcxproj": {
+                "projectPath": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\DataReader\\DataReader.vcxproj"
               },
-              "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\Journaling\\Journaling.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\Journaling\\Journaling.vcxproj"
+              "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\Journaling\\Journaling.vcxproj": {
+                "projectPath": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\Journaling\\Journaling.vcxproj"
               }
             }
           }
@@ -32,22 +32,22 @@
         "native": {}
       }
     },
-    "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\AppPartOps\\AppPartOps.vcxproj": {
+    "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\AppPartOps\\AppPartOps.vcxproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\AppPartOps\\AppPartOps.vcxproj",
+        "projectUniqueName": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\AppPartOps\\AppPartOps.vcxproj",
         "projectName": "AppPartOps",
-        "projectPath": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\AppPartOps\\AppPartOps.vcxproj",
+        "projectPath": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\AppPartOps\\AppPartOps.vcxproj",
         "frameworks": {
           "native": {
             "projectReferences": {
-              "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\AppLibrary\\AppLibrary.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\AppLibrary\\AppLibrary.vcxproj"
+              "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\AppLibrary\\AppLibrary.vcxproj": {
+                "projectPath": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\AppLibrary\\AppLibrary.vcxproj"
               },
-              "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\Core\\Core.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\Core\\Core.vcxproj"
+              "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\Core\\Core.vcxproj": {
+                "projectPath": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\Core\\Core.vcxproj"
               },
-              "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\Journaling\\Journaling.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\Journaling\\Journaling.vcxproj"
+              "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\Journaling\\Journaling.vcxproj": {
+                "projectPath": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\Journaling\\Journaling.vcxproj"
               }
             }
           }
@@ -57,11 +57,11 @@
         "native": {}
       }
     },
-    "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\AppsCore\\AppsCore.vcxproj": {
+    "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\AppsCore\\AppsCore.vcxproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\AppsCore\\AppsCore.vcxproj",
+        "projectUniqueName": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\AppsCore\\AppsCore.vcxproj",
         "projectName": "AppsCore",
-        "projectPath": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\AppsCore\\AppsCore.vcxproj",
+        "projectPath": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\AppsCore\\AppsCore.vcxproj",
         "frameworks": {
           "native": {
             "projectReferences": {}
@@ -72,11 +72,11 @@
         "native": {}
       }
     },
-    "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\Core\\Core.vcxproj": {
+    "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\Core\\Core.vcxproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\Core\\Core.vcxproj",
+        "projectUniqueName": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\Core\\Core.vcxproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\Core\\Core.vcxproj",
+        "projectPath": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\Core\\Core.vcxproj",
         "frameworks": {
           "native": {
             "projectReferences": {}
@@ -87,16 +87,16 @@
         "native": {}
       }
     },
-    "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\DataReader\\DataReader.vcxproj": {
+    "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\DataReader\\DataReader.vcxproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\DataReader\\DataReader.vcxproj",
+        "projectUniqueName": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\DataReader\\DataReader.vcxproj",
         "projectName": "DataReader",
-        "projectPath": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\DataReader\\DataReader.vcxproj",
+        "projectPath": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\DataReader\\DataReader.vcxproj",
         "frameworks": {
           "native": {
             "projectReferences": {
-              "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\Core\\Core.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\Core\\Core.vcxproj"
+              "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\Core\\Core.vcxproj": {
+                "projectPath": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\Core\\Core.vcxproj"
               }
             }
           }
@@ -106,20 +106,20 @@
         "native": {}
       }
     },
-    "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj": {
+    "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj",
+        "projectUniqueName": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj",
         "projectName": "DotNetAutomationBinding",
-        "projectPath": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj",
-        "packagesPath": "C:\\Users\\polek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\DotNetAutomationBinding\\obj\\",
+        "projectPath": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj",
+        "packagesPath": "C:\\Users\\Ryan\\.nuget\\packages\\",
+        "outputPath": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\DotNetAutomationBinding\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\polek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ryan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -135,8 +135,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj"
+              "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj": {
+                "projectPath": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj"
               }
             }
           }
@@ -172,26 +172,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj": {
+    "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj",
+        "projectUniqueName": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj",
         "projectName": "DotNetAutomationNative",
-        "projectPath": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj",
+        "projectPath": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj",
         "frameworks": {
           "native": {
             "projectReferences": {
-              "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\AppPartOps\\AppPartOps.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\AppPartOps\\AppPartOps.vcxproj"
+              "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\AppPartOps\\AppPartOps.vcxproj": {
+                "projectPath": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\AppPartOps\\AppPartOps.vcxproj"
               },
-              "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\AppsCore\\AppsCore.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\AppsCore\\AppsCore.vcxproj"
+              "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\AppsCore\\AppsCore.vcxproj": {
+                "projectPath": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\AppsCore\\AppsCore.vcxproj"
               },
-              "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\Core\\Core.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\Core\\Core.vcxproj"
+              "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\Core\\Core.vcxproj": {
+                "projectPath": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\Core\\Core.vcxproj"
               }
             }
           }
@@ -201,20 +201,20 @@
         "native": {}
       }
     },
-    "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\DotNetAutomationProgram\\DotNetAutomationProgram.csproj": {
+    "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\DotNetAutomationProgram\\DotNetAutomationProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\DotNetAutomationProgram\\DotNetAutomationProgram.csproj",
+        "projectUniqueName": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\DotNetAutomationProgram\\DotNetAutomationProgram.csproj",
         "projectName": "DotNetAutomationProgram",
-        "projectPath": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\DotNetAutomationProgram\\DotNetAutomationProgram.csproj",
-        "packagesPath": "C:\\Users\\polek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\DotNetAutomationProgram\\obj\\",
+        "projectPath": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\DotNetAutomationProgram\\DotNetAutomationProgram.csproj",
+        "packagesPath": "C:\\Users\\Ryan\\.nuget\\packages\\",
+        "outputPath": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\DotNetAutomationProgram\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\polek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ryan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -230,8 +230,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj": {
-                "projectPath": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj"
+              "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj": {
+                "projectPath": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj"
               }
             }
           }
@@ -267,20 +267,20 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\Journaling\\Journaling.vcxproj": {
+    "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\Journaling\\Journaling.vcxproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\Journaling\\Journaling.vcxproj",
+        "projectUniqueName": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\Journaling\\Journaling.vcxproj",
         "projectName": "Journaling",
-        "projectPath": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\Journaling\\Journaling.vcxproj",
+        "projectPath": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\Journaling\\Journaling.vcxproj",
         "frameworks": {
           "native": {
             "projectReferences": {
-              "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\Core\\Core.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\Source\\Repos\\SoftwareArchitectureCLassApplication\\Core\\Core.vcxproj"
+              "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\Core\\Core.vcxproj": {
+                "projectPath": "F:\\UC\\Spring2024\\SoftwareArchitecture\\Journaling_Assignment\\SoftwareArchitectureCLassApplication\\Core\\Core.vcxproj"
               }
             }
           }
